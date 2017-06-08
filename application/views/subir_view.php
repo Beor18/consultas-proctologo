@@ -101,12 +101,26 @@ else{
                                     <input type="checkbox" name="dolor_permanente" value="<?php echo $dolor_permanente; ?>"/> Permanente <br>
                                     <input type="checkbox" name="dolor_intermitente" value="<?php echo $dolor_intermitente; ?>"/> Intermitente<br>
                                     <br>
-                                    
+                                   
+				    <!--Nuevos campos falta agregar variables 08/06/2017 Fer Lopez --> 
 				    <p class="pformulario"><label>¿El dolor se corre hacia otra region o es solo el ano? </label></p>
 				    
 				    <input type="checkbox" name="" value=""/> Se Corre <br>
 				    <input type="checkbox" name"" value""/>En Ano <br>
 				    <br>
+				
+				    <p class="pformulario"><label>¿s como si le pasaran un cuchillo por el ano? </label></p>
+
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+				   
+				    <p class="pformulario"><label>�Tiene dificultad para evacuar? </label></p>
+
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+
 
                                         <!--El name del campo tiene que ser si o si "userfile"-->
                                 	<p class="pformulario"><label>Subir un fichero (Máximo 3 fotos):</label></p> 
