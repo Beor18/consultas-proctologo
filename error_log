@@ -1,0 +1,95 @@
+[17-Dec-2016 21:38:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined method Subir_model::leer_empresa() in /home/producc3/public_html/fabricas/application/controllers/Subir.php on line 35
+[17-Dec-2016 21:39:57 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/producc3/public_html/fabricas/application/views/inicio.php on line 3
+[16-May-2017 17:12:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/proctologoonline/public_html/application/views/inicio.php on line 19
+[16-May-2017 17:35:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/proctologoonline/public_html/application/controllers/Subir.php on line 59
+[16-May-2017 17:35:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/proctologoonline/public_html/application/controllers/Subir.php on line 58
+[16-May-2017 18:01:56 UTC] PHP Parse error:  syntax error, unexpected '$fotos' (T_VARIABLE), expecting function (T_FUNCTION) in /home/proctologoonline/public_html/application/controllers/Subir.php on line 37
+[16-May-2017 18:19:33 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/proctologoonline/public_html/application/controllers/Subir.php on line 18
+[16-May-2017 18:21:53 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/proctologoonline/public_html/application/views/inicio.php on line 76
+[16-May-2017 18:21:53 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/proctologoonline/public_html/application/views/inicio.php on line 76
+[16-May-2017 18:22:30 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/proctologoonline/public_html/application/views/inicio.php on line 78
+[16-May-2017 18:35:13 UTC] PHP Parse error:  syntax error, unexpected '$buscar' (T_VARIABLE) in /home/proctologoonline/public_html/application/controllers/Subir.php on line 44
+[16-May-2017 18:35:35 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/proctologoonline/public_html/application/controllers/Subir.php on line 43
+[16-May-2017 19:07:38 UTC] PHP Fatal error:  Call to a member function data() on null in /home/proctologoonline/public_html/application/controllers/Subir.php on line 31
+[16-May-2017 19:44:43 UTC] PHP Parse error:  syntax error, unexpected 'extendsController' (T_STRING), expecting '{' in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 2
+[16-May-2017 19:45:21 UTC] PHP Parse error:  syntax error, unexpected 'function__construct' (T_STRING), expecting function (T_FUNCTION) in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 3
+[16-May-2017 19:46:02 UTC] PHP Parse error:  syntax error, unexpected 'functionindex' (T_STRING), expecting function (T_FUNCTION) in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 10
+[16-May-2017 19:46:18 UTC] PHP Parse error:  syntax error, unexpected '$field' (T_VARIABLE) in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 24
+[16-May-2017 19:51:19 UTC] PHP Fatal error:  Class 'Controller' not found in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 2
+[16-May-2017 19:51:54 UTC] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 6
+[16-May-2017 19:51:55 UTC] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 6
+[16-May-2017 19:52:32 UTC] PHP Fatal error:  Call to undefined method CI_Controller::CI_Controller() in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 6
+[16-May-2017 19:52:33 UTC] PHP Fatal error:  Call to undefined method CI_Controller::CI_Controller() in /home/proctologoonline/public_html/application/controllers/Exportar_excel.php on line 6
+[17-May-2017 17:41:14 UTC] PHP Parse error:  syntax error, unexpected '$buscar' (T_VARIABLE) in /home/proctologoonline/public_html/application/models/Subir_model.php on line 5
+[17-May-2017 17:41:52 UTC] PHP Parse error:  syntax error, unexpected '$buscar' (T_VARIABLE) in /home/proctologoonline/public_html/application/models/Subir_model.php on line 5
+[17-May-2017 17:41:56 UTC] PHP Parse error:  syntax error, unexpected '$buscar' (T_VARIABLE) in /home/proctologoonline/public_html/application/models/Subir_model.php on line 5
+[17-May-2017 18:30:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/proctologoonline/public_html/application/controllers/Subir.php on line 23
+[17-May-2017 18:30:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/proctologoonline/public_html/application/controllers/Subir.php on line 23
+[17-May-2017 19:33:25 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 30
+[18-May-2017 18:32:20 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 171
+[18-May-2017 18:36:14 UTC] PHP Parse error:  syntax error, unexpected '"titulo foto"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 171
+[18-May-2017 18:36:17 UTC] PHP Parse error:  syntax error, unexpected '"titulo foto"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 171
+[18-May-2017 18:37:15 UTC] PHP Parse error:  syntax error, unexpected '"titulo foto"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 173
+[18-May-2017 18:37:43 UTC] PHP Parse error:  syntax error, unexpected '"titulo foto"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 173
+[18-May-2017 18:37:44 UTC] PHP Parse error:  syntax error, unexpected '"titulo foto"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 173
+[18-May-2017 18:38:02 UTC] PHP Parse error:  syntax error, unexpected '"titulo foto"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 173
+[18-May-2017 18:38:05 UTC] PHP Parse error:  syntax error, unexpected '"titulo"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 173
+[18-May-2017 18:38:17 UTC] PHP Parse error:  syntax error, unexpected '"algo"' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 174
+[18-May-2017 18:50:10 UTC] PHP Parse error:  syntax error, unexpected '"Adjunto: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 173
+[18-May-2017 18:54:04 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 175
+[18-May-2017 18:54:20 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 175
+[18-May-2017 19:39:34 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 38
+[18-May-2017 19:47:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 45
+[18-May-2017 19:48:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 177
+[19-May-2017 17:34:47 UTC] PHP Fatal error:  Call to a member function get() on null in /home/proctologoonline/public_html/application/controllers/Exportar.php on line 14
+[19-May-2017 17:37:40 UTC] PHP Fatal error:  Call to a member function get() on null in /home/proctologoonline/public_html/application/controllers/Exportar.php on line 14
+[22-May-2017 19:32:01 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/proctologoonline/public_html/application/views/admin_view.php on line 43
+[22-May-2017 19:36:17 UTC] PHP Fatal error:  Cannot access empty property in /home/proctologoonline/public_html/application/views/admin_view.php on line 35
+[22-May-2017 19:50:00 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/proctologoonline/public_html/application/views/admin_view.php on line 39
+[22-May-2017 19:50:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/proctologoonline/public_html/application/views/admin_view.php on line 38
+[22-May-2017 19:50:32 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/proctologoonline/public_html/application/views/admin_view.php on line 38
+[22-May-2017 19:54:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/views/admin_view.php on line 37
+[22-May-2017 19:58:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/proctologoonline/public_html/application/views/admin_view.php on line 39
+[22-May-2017 19:59:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 22:34:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 22:39:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 22:40:10 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 22:40:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 22:40:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 22:40:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row_array() in /home/proctologoonline/public_html/application/views/admin_view.php on line 40
+[22-May-2017 23:19:05 UTC] PHP Parse error:  syntax error, unexpected ''dni'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/proctologoonline/public_html/application/views/admin_view.php on line 36
+[31-May-2017 18:41:51 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:44:40 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:45:14 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:45:31 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:54:45 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:54:49 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:55:52 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:58:48 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 18:58:50 UTC] PHP Parse error:  syntax error, unexpected '"Nacimiento: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 191
+[31-May-2017 19:00:12 UTC] PHP Parse error:  syntax error, unexpected '"Dni: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:00:13 UTC] PHP Parse error:  syntax error, unexpected '"Dni: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:00:15 UTC] PHP Parse error:  syntax error, unexpected '"Dni: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:00:42 UTC] PHP Parse error:  syntax error, unexpected '"Dni: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:09:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:10:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 190
+[31-May-2017 19:42:42 UTC] PHP Parse error:  syntax error, unexpected '"¿Toma alguna medicación?: "' (T_CONSTANT_ENCAPSED_STRING) in /home/proctologoonline/public_html/application/controllers/Subir_controller.php on line 195
+[06-Jun-2017 19:41:19 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/proctologoonline/public_html/application/views/admin_view.php on line 62
+[07-Jun-2017 16:31:58 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/proctologoonline/public_html/application/views/admin_view.php on line 63
+[07-Jun-2017 16:32:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/proctologoonline/public_html/application/views/admin_view.php on line 61
+[07-Jun-2017 16:37:41 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/proctologoonline/public_html/application/views/admin_view.php on line 61
+[07-Jun-2017 17:16:18 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/proctologoonline/public_html/application/views/admin_view.php on line 77
+[07-Jun-2017 17:17:13 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home/proctologoonline/public_html/application/views/admin_view.php on line 74
+[07-Jun-2017 17:17:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home/proctologoonline/public_html/application/views/admin_view.php on line 74
+[07-Jun-2017 17:29:20 UTC] PHP Fatal error:  Class '' not found in /home/proctologoonline/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[07-Jun-2017 17:29:34 UTC] PHP Fatal error:  Class '' not found in /home/proctologoonline/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[07-Jun-2017 17:29:37 UTC] PHP Fatal error:  Call to a member function result() on string in /home/proctologoonline/public_html/application/views/admin_view.php on line 88
+[07-Jun-2017 17:29:39 UTC] PHP Fatal error:  Call to a member function result() on string in /home/proctologoonline/public_html/application/views/admin_view.php on line 88
+[07-Jun-2017 17:29:40 UTC] PHP Fatal error:  Call to a member function result() on string in /home/proctologoonline/public_html/application/views/admin_view.php on line 88
