@@ -102,6 +102,11 @@ else{
                                     <input type="checkbox" name="dolor_intermitente" value="<?php echo $dolor_intermitente; ?>"/> Intermitente<br>
                                     <br>
                                     
+				    <p class="pformulario"><label>¿El dolor se corre hacia otra region o es solo el ano? </label></p>
+				    
+				    <input type="checkbox" name="" value=""/> Se Corre <br>
+				    <input type="checkbox" name"" value""/>En Ano <br>
+				    <br>
 
                                         <!--El name del campo tiene que ser si o si "userfile"-->
                                 	<p class="pformulario"><label>Subir un fichero (Máximo 3 fotos):</label></p> 
