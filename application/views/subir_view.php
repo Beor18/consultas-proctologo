@@ -22,6 +22,13 @@ else{
     $dolor_mas_una_semana = 'MAS DE 1 SEMANA';
     $dolor_permanente = 'Permanente';
     $dolor_intermitente = 'Intermitente';
+    $dolor_se_corre = 'Se Corre';
+    $dolor_en_ano = 'En Ano';
+    $pasaran_cuchillo_si = 'Si';
+    $pasaran_cuchillo_no = 'No';
+    $dificultad_evacuar_si = 'Si';
+    $dificultad_evacuar_no = 'No';
+    $nota_dolor = '';
     $userfile = '';
     $userfile2 = '';
     $userfile3 = '';
@@ -105,31 +112,31 @@ else{
                 				    <!--Nuevos campos falta agregar variables 08/06/2017 Fer Lopez --> 
                 				    <p class="pformulario"><label>¿El dolor se corre hacia otra region o es solo el ano? </label></p>
                 				    
-                				    <input type="checkbox" name="" value=""/> Se Corre <br>
-                				    <input type="checkbox" name"" value""/>En Ano <br>
+                				    <input type="checkbox" name="dolor_se_corre" value="<?php echo $dolor_se_corre; ?>"/> Se Corre <br>
+                				    <input type="checkbox" name"dolor_en_ano" value"<?php echo $dolor_en_ano; ?>"/>En Ano <br>
                 				    <br>
                 				
                 				    <p class="pformulario"><label>¿Es como si le pasaran un cuchillo por el ano? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="pasaran_cuchillo_si" value="<?php echo $pasaran_cuchillo_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"pasaran_cuchillo_no" value"<?php echo $pasaran_cuchillo_no; ?>"/> No <br>
                                     <br>
                 				   
                 				    <p class="pformulario"><label>¿Tiene dificultad para evacuar? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="dificultad_evacuar_si" value="<?php echo $dificultad_evacuar_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"dificultad_evacuar_no" value"<?php echo $dificultad_evacuar_no; ?>"/> No <br>
                                     <br>
                                     
                                      <p class="pformulario"><label>PONGALE NOTA A SU DOLOR: 0 NADA – 10 INTOLERABLE </label></p>
                 
-                                    <input type="text" name="" value=""/><br>
+                                    <input type="text" name="nota_dolor" value="<?php echo $nota_dolor; ?>"/><br>
                                     <br>
                                     
-                                    <p class="pformulario"><label>¿Sangra por el anor? </label></p>
+                                    <p class="pformulario"><label>¿Sangra por el ano? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="sangra_ano_si" value="<?php echo $sangra_ano_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"sangra_ano_no" value"<?php echo $sangra_ano_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿La sangre es Rojo Vivo o Color Vino? </label></p>
