@@ -133,6 +133,7 @@ class Subir_controller extends CI_Controller {
             'dolor_mas_una_semana' => $this->input->post('dolor_mas_una_semana'),
             'dolor_permanente' => $this->input->post('dolor_permanente'),
             'dolor_intermitente' => $this->input->post('dolor_intermitente'),
+            '$dolor_se_corre' => $this->input->post('dolor_se_corre'),
             'fotos' => $userfile,
             'fotosdos' => $userfile2,
             'fotostres' => $userfile3
