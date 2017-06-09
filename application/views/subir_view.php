@@ -102,23 +102,40 @@ else{
                                     <input type="checkbox" name="dolor_intermitente" value="<?php echo $dolor_intermitente; ?>"/> Intermitente<br>
                                     <br>
                                    
-				    <!--Nuevos campos falta agregar variables 08/06/2017 Fer Lopez --> 
-				    <p class="pformulario"><label>¿El dolor se corre hacia otra region o es solo el ano? </label></p>
-				    
-				    <input type="checkbox" name="" value=""/> Se Corre <br>
-				    <input type="checkbox" name"" value""/>En Ano <br>
-				    <br>
-				
-				    <p class="pformulario"><label>¿s como si le pasaran un cuchillo por el ano? </label></p>
-
+                				    <!--Nuevos campos falta agregar variables 08/06/2017 Fer Lopez --> 
+                				    <p class="pformulario"><label>¿El dolor se corre hacia otra region o es solo el ano? </label></p>
+                				    
+                				    <input type="checkbox" name="" value=""/> Se Corre <br>
+                				    <input type="checkbox" name"" value""/>En Ano <br>
+                				    <br>
+                				
+                				    <p class="pformulario"><label>¿Es como si le pasaran un cuchillo por el ano? </label></p>
+                
                                     <input type="checkbox" name="" value=""/> Si <br>
                                     <input type="checkbox" name"" value""/> No <br>
                                     <br>
-				   
-				    <p class="pformulario"><label>�Tiene dificultad para evacuar? </label></p>
-
+                				   
+                				    <p class="pformulario"><label>¿Tiene dificultad para evacuar? </label></p>
+                
                                     <input type="checkbox" name="" value=""/> Si <br>
                                     <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                     <p class="pformulario"><label>PONGALE NOTA A SU DOLOR: 0 NADA – 10 INTOLERABLE </label></p>
+                
+                                    <input type="text" name="" value=""/><br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Sangra por el anor? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿La sangre es Rojo Vivo o Color Vino? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Rojo Vivo <br>
+                                    <input type="checkbox" name"" value""/> Color Vinoso <br>
                                     <br>
 
 
