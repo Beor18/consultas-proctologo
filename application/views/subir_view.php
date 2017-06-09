@@ -137,6 +137,88 @@ else{
                                     <input type="checkbox" name="" value=""/> Rojo Vivo <br>
                                     <input type="checkbox" name"" value""/> Color Vinoso <br>
                                     <br>
+                                    
+                                    <p class="pformulario"><label>¿El Sangrado se da en cualquier momento del dia o solo al evacuar? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Cualquier Momento <br>
+                                    <input type="checkbox" name"" value""/> Al Evacuar <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿El Sangrado es sobre el papel al higienizarse o gotea en el inodoro? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> En el Papel <br>
+                                    <input type="checkbox" name"" value""/> Gotea en el Inodoro <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Toma aspirinas o algun anticoagulante? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Salio pus o moco por el Ano? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Pus <br>
+                                    <input type="checkbox" name"" value""/> Moco <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Tuvo Fiebre? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Aparecio algun bulto en el ano? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Es muy grande el bulto o como si fuera una uva? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Menor a 1 cm <br>
+                                    <input type="checkbox" name"" value""/> Mayor a 1 cm <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Si se toca el bulto le duele? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿El bulto es de color azulado? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Tiene picazon anal? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿La picazon se extiende a la zona alrededor del ano? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Le salieron Verrugas en el ano? </label></p>
+                
+                                    <input type="checkbox" name="" value=""/> Si <br>
+                                    <input type="checkbox" name"" value""/> No <br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>¿Hizo algun tratamiento previo a la consulta que le haya sido efectivo antes? ¿Cual? </label></p>
+                
+                                    <textarea type="text" name="" value=""/></textarea><br>
+                                    <br>
+                                    
+                                    <p class="pformulario"><label>POR FAVOR, EN EL SIGUIENTE ESPACIO ESCRIBA LO QUE CONSIDERE PUEDA SUMAR AL CUESTIONARIO ANTERIOR. </label></p>
+                
+                                    <textarea type="text" name="" value=""/></textarea><br>
+                                    <br>
 
 
                                         <!--El name del campo tiene que ser si o si "userfile"-->
