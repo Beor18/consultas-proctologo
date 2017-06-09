@@ -29,6 +29,36 @@ else{
     $dificultad_evacuar_si = 'Si';
     $dificultad_evacuar_no = 'No';
     $nota_dolor = '';
+    $sangra_ano_si = 'Si';
+    $sangra_ano_no = 'No';
+    $rojo_vivo = 'Rojo Vivo';
+    $color_vinoso = 'Color Vinoso';
+    $sangrado_cualquier_momento = 'Cualquier Momento';
+    $sangrado_al_evacuar = 'Al Evacuar';
+    $sangrado_papel = 'En el Papel';
+    $sangrado_inodoro = 'Gotea en el Inodoro';
+    $aspirina_si = 'Si';
+    $aspirinas_no = 'No';
+    $salio_pus = 'Pus';
+    $salio_moco = 'Moco';
+    $fiebre_si = 'Si';
+    $fiebre_no = 'No';
+    $bulto_ano_si = 'Si';
+    $bulto_ano_no = 'No';
+    $bulto_menor_un = 'Menor a 1 cm';
+    $bulto_mayor_un = 'Mayor a 1 cm';
+    $bulto_duele_si = 'Si';
+    $bulto_duele_no = 'No';
+    $bulto_azulado_si = 'Si';
+    $bulto_azulado_no = 'No';
+    $picazon_si = 'Si';
+    $picazon_no = 'No';
+    $picazon_alrededor_ano_si = 'Si';
+    $picazon_alrededor_ano_no = 'No';
+    $verrugas_ano_si = 'Si';
+    $verrugas_ano_no = 'No';
+    $tratamiento_previo_consulta = '';
+    $extra_cuestionario = '';
     $userfile = '';
     $userfile2 = '';
     $userfile3 = '';
@@ -141,90 +171,90 @@ else{
                                     
                                     <p class="pformulario"><label>¿La sangre es Rojo Vivo o Color Vino? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Rojo Vivo <br>
-                                    <input type="checkbox" name"" value""/> Color Vinoso <br>
+                                    <input type="checkbox" name="rojo_vivo" value="<?php echo $rojo_vivo; ?>"/> Rojo Vivo <br>
+                                    <input type="checkbox" name"color_vinoso" value"<?php echo $color_vinoso; ?>"/> Color Vinoso <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿El Sangrado se da en cualquier momento del dia o solo al evacuar? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Cualquier Momento <br>
-                                    <input type="checkbox" name"" value""/> Al Evacuar <br>
+                                    <input type="checkbox" name="sangrado_cualquier_momento" value="<?php echo $sangrado_cualquier_momento; ?>"/> Cualquier Momento <br>
+                                    <input type="checkbox" name"sangrado_al_evacuar" value"<?php echo $sangrado_al_evacuar; ?>"/> Al Evacuar <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿El Sangrado es sobre el papel al higienizarse o gotea en el inodoro? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> En el Papel <br>
-                                    <input type="checkbox" name"" value""/> Gotea en el Inodoro <br>
+                                    <input type="checkbox" name="sangrado_papel" value="<?php echo $sangrado_papel; ?>"/> En el Papel <br>
+                                    <input type="checkbox" name"sangrado_inodoro" value"<?php echo $sangrado_inodoro; ?>"/> Gotea en el Inodoro <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Toma aspirinas o algun anticoagulante? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="aspirinas_si" value="<?php echo $aspirina_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"aspirinas_no" value"<?php echo $aspirinas_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Salio pus o moco por el Ano? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Pus <br>
-                                    <input type="checkbox" name"" value""/> Moco <br>
+                                    <input type="checkbox" name="salio_pus" value="<?php echo $salio_pus; ?>"/> Pus <br>
+                                    <input type="checkbox" name"salio_moco" value"<?php echo $salio_moco; ?>"/> Moco <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Tuvo Fiebre? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="fiebre_si" value="<?php echo $fiebre_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"fiebre_no" value"<?php echo $fiebre_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Aparecio algun bulto en el ano? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="bulto_ano_si" value="<?php echo $bulto_ano_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"bulto_ano_no" value"<?php echo $bulto_ano_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Es muy grande el bulto o como si fuera una uva? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Menor a 1 cm <br>
-                                    <input type="checkbox" name"" value""/> Mayor a 1 cm <br>
+                                    <input type="checkbox" name="bulto_menor_un" value="<?php echo $bulto_menor_un; ?>"/> Menor a 1 cm <br>
+                                    <input type="checkbox" name"bulto_mayor_un" value"<?php echo $bulto_mayor_un; ?>"/> Mayor a 1 cm <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Si se toca el bulto le duele? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="bulto_duele_si" value="<?php echo $bulto_duele_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"bulto_duele_no" value"<?php echo $bulto_duele_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿El bulto es de color azulado? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="bulto_azulado_si" value="<?php echo $bulto_azulado_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"bulto_azulado_no" value"<?php echo $bulto_azulado_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Tiene picazon anal? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="picazon_si" value="<?php echo $picazon_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"picazon_no" value"<?php echo $picazon_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿La picazon se extiende a la zona alrededor del ano? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="picazon_alrededor_ano_si" value="<?php echo $picazon_alrededor_ano_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"picazon_alrededor_ano_no" value"<?php echo $picazon_alrededor_ano_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Le salieron Verrugas en el ano? </label></p>
                 
-                                    <input type="checkbox" name="" value=""/> Si <br>
-                                    <input type="checkbox" name"" value""/> No <br>
+                                    <input type="checkbox" name="verrugas_ano_si" value="<?php echo $verrugas_ano_si; ?>"/> Si <br>
+                                    <input type="checkbox" name"verrugas_ano_no" value"<?php echo $verrugas_ano_no; ?>"/> No <br>
                                     <br>
                                     
                                     <p class="pformulario"><label>¿Hizo algun tratamiento previo a la consulta que le haya sido efectivo antes? ¿Cual? </label></p>
                 
-                                    <textarea type="text" name="" value=""/></textarea><br>
+                                    <textarea type="text" name="tratamiento_previo_consulta" value="<?php echo $tratamiento_previo_consulta; ?>"/></textarea><br>
                                     <br>
                                     
                                     <p class="pformulario"><label>POR FAVOR, EN EL SIGUIENTE ESPACIO ESCRIBA LO QUE CONSIDERE PUEDA SUMAR AL CUESTIONARIO ANTERIOR. </label></p>
                 
-                                    <textarea type="text" name="" value=""/></textarea><br>
+                                    <textarea type="text" name="extra_cuestionario" value="<?php echo $extra_cuestionario; ?>"/></textarea><br>
                                     <br>
 
 
