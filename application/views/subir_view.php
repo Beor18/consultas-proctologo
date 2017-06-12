@@ -189,7 +189,7 @@ else{
                                     
                                     <p class="pformulario"><label>¿Toma aspirinas o algun anticoagulante? </label></p>
                 
-                                    <input type="checkbox" name="aspirinas_si" value="<?php echo $aspirina_si; ?>"/> Si <br>
+                                    <input type="checkbox" name="aspirina_si" value="<?php echo $aspirina_si; ?>"/> Si <br>
                                     <input type="checkbox" name"aspirinas_no" value"<?php echo $aspirinas_no; ?>"/> No <br>
                                     <br>
                                     
